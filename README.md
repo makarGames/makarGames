@@ -13,5 +13,12 @@ Here I'm going post my little projects.
   <b>Get it on <a href="https://makargames.itch.io/2048-monster-solitaire">ITCH.IO</b></a><br>
 
   <b>Get it on <a href="https://play.google.com/store/apps/details?id=com.makar.dva">GOOGLE PLAY</b></a>
+
+## Prototypes
+- ## ShulteTable
+  <br>
+  <img src = "../schulte-table/gameplay.gif>
+
+  https://github.com/makarGames/schulte-table
 ***
 Contact me: makarGames@pm.com
