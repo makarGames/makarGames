@@ -16,9 +16,10 @@ Here I'm going post my little projects.
 
 ## Prototypes
 - ## ShulteTable
+  
+  <img src = "../schulte-table/gameplay.gif">
   <br>
-  <img src = "../schulte-table/gameplay.gif>
 
-  https://github.com/makarGames/schulte-table
+  <a href="https://github.com/makarGames/schulte-table">https://github.com/makarGames/schulte-table</a>
 ***
 Contact me: makarGames@pm.com
