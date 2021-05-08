@@ -17,7 +17,7 @@ Here I'm going post my little projects.
 ## Prototypes
 - ## ShulteTable
   
-  <img src = "../schulte-table/gameplay.gif">
+  <img src = "https://github.com/makarGames/schulte-table/blob/b73f4fcf809c152e74ea26a730c2fb7d5dc66c69/gameplay.gif">
   <br>
 
   <a href="https://github.com/makarGames/schulte-table">https://github.com/makarGames/schulte-table</a>
