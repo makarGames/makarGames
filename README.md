@@ -4,7 +4,7 @@ Here I'm going post my little projects.
 
 ## Сompleted projects:
 
-- ## 2048 Monster Solitaire
+- ### 2048 Monster Solitaire
   My first complete game.<br>
 
   <img src = "./images/banner.jpg">
@@ -15,11 +15,17 @@ Here I'm going post my little projects.
   <b>Get it on <a href="https://play.google.com/store/apps/details?id=com.makar.dva">GOOGLE PLAY</b></a>
 
 ## Prototypes
-- ## ShulteTable
+- ### ShulteTable
   
   <img src = "https://github.com/makarGames/schulte-table/blob/b73f4fcf809c152e74ea26a730c2fb7d5dc66c69/gameplay.gif" width = 200>
   <br>
 
   <a href="https://github.com/makarGames/schulte-table">https://github.com/makarGames/schulte-table</a>
+- ### JumpBall
+  
+  <img src = "https://github.com/makarGames/jump-ball/blob/43f2d7dfc557cbcb4de9ba925b806618918fd25f/gameplay.gif">
+  <br>
+
+  <a href="https://github.com/makarGames/jump-ball">https://github.com/makarGames/jump-ball</a>
 ***
 Contact me: makarGames@pm.com
