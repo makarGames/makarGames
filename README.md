@@ -5,7 +5,7 @@ Here I'm going post my little projects.
 ## Сompleted projects:
 
 - ### 2048 Monster Solitaire
-  My first complete game.<br>
+  My first completed game.<br>
 
   <img src = "./images/banner.jpg">
   <br>
