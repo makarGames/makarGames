@@ -13,8 +13,9 @@ Here I'm going post my little projects.
   Get it on 
   
   
-  [ITCH.IO](https://makargames.itch.io/2048-monster-solitaire)
-  [GOOGLE PLAY](https://play.google.com/store/apps/details?id=com.makar.dva)<br>
+  [ITCH.IO](https://makargames.itch.io/2048-monster-solitaire)<br>
+  [GOOGLE PLAY](https://play.google.com/store/apps/details?id=com.makar.dva)<br><br>
+  You can see how it works from the inside in 
   [2048 Monster Solitaire GitHub repository](https://github.com/makarGames/2048-Monster-Solitaire-WebGL)
 
 ## Prototypes
