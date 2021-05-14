@@ -26,7 +26,7 @@ Here I'm going post my little projects.
   [https://github.com/makarGames/schulte-table](https://github.com/makarGames/schulte-table)
 - ### JumpBall
   
-  <img src = "https://github.com/makarGames/jump-ball/blob/43f2d7dfc557cbcb4de9ba925b806618918fd25f/gameplay.gif">
+  <img src = "https://github.com/makarGames/jump-ball/blob/71108f09cf0ddfc35b97f90953ed3d4fc0ddf4d0/gameplay.gif">
   <br>
 
   [https://github.com/makarGames/jump-ball](https://github.com/makarGames/jump-ball)
