@@ -17,19 +17,19 @@ Here I'm going post my little projects.
   You can see how it works from the inside in 
   [2048 Monster Solitaire GitHub repository](https://github.com/makarGames/2048-Monster-Solitaire-WebGL)
   
- - ### Kinoko
-   Game for Ludum Dare 48 indicator
+- ### Kinoko
+  Game for Ludum Dare 48 indicator
     
-    <img src = "https://github.com/makarGames/Kinoko-Unity-project/blob/04020cde9da70b625a4571e2ceeb901d70b61b99/Media/banner.jpg">
+  <img src = "https://github.com/makarGames/Kinoko-Unity-project/blob/04020cde9da70b625a4571e2ceeb901d70b61b99/Media/banner.jpg">
     
-    [Page on Ludum Dare 48 indicator](https://itch.io/jam/ludum-dare-48-indikator/rate/1015104)
+  [Page on Ludum Dare 48 indicator](https://itch.io/jam/ludum-dare-48-indikator/rate/1015104)
     
-     Get it on 
+  Get it on 
      
-     [ITCH.IO](https://makargames.itch.io/kinoko)
+  [ITCH.IO](https://makargames.itch.io/kinoko)
      
-    You can see how it works from the inside in 
-    [Kinoko GitHub repository](https://github.com/makarGames/Kinoko-Unity-project)
+  You can see how it works from the inside in 
+  [Kinoko GitHub repository](https://github.com/makarGames/Kinoko-Unity-project)
     
     
 ## Prototypes
