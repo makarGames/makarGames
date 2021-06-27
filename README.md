@@ -44,5 +44,11 @@ Here I'm going post my little projects.
   <br>
 
   [https://github.com/makarGames/jump-ball](https://github.com/makarGames/jump-ball)
+  
+  - ### Corner Chess
+  [![](https://j.gifs.com/08Vy3X.gif)](https://youtu.be/8Z1JQeV6xYg)
+  <br>
+
+  [https://github.com/makarGames/Corner-Chess-Unity-project](https://github.com/makarGames/Corner-Chess-Unity-project)
 ***
 Contact me: makarGames@pm.com
