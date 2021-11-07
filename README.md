@@ -33,6 +33,12 @@ Here I'm going post my little projects.
     
     
 ## Prototypes
+- ### TapBalloons
+  <img src = "./images/TapBalloons.gif" width = 200>
+  <br>
+  
+  [https://github.com/makarGames/TapBalloons](https://github.com/makarGames/TapBalloons)
+  
 - ### ShulteTable
   <img src = "https://github.com/makarGames/schulte-table/blob/b73f4fcf809c152e74ea26a730c2fb7d5dc66c69/gameplay.gif" width = 200>
   <br>
